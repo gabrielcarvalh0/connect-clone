@@ -5,7 +5,6 @@ import { BlockOffer } from "./components/BlockOffer";
 import { CardListRef } from "./components/CardListRef";
 import { CardListSlider } from "./components/CardListSlider";
 import { CardOffer } from "./components/CardOffer";
-import { Carousel } from "./components/Carousel";
 import { Footer } from "./components/Footer";
 import { NavBar } from "./components/NavBar";
 import { RuleRegister } from "./components/RuleRegister";
