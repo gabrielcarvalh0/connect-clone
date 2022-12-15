@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    @apply bg-gray-50 text-gray-900
+}
+
+.calcView{
+    height: calc(100vh - 80px) ;
+}
+
+.iconExample {
+    display: block;
+    height: 25px;
+    width: 25px;
+    min-width: 25px;
+    background-size: 30px 782px;
+    background-image: url(https://connectparts.vteximg.com.br/arquivos/sprite-menu.png);
+    background-position-x: center;
+    background-repeat: no-repeat;
+}
+.main{
+    background-position-y: 11px
+}
+.som-e-video {
+    background-position-y: -39px;
+}
+.farois-lanternas-e-iluminacao {
+    background-position-y: -87px;
+}
+.acessorios-internos {
+    background-position-y: -326px;
+}
+.acessorios-externos {
+    background-position-y: -279px;
+}
+
+.motocicletas {
+    background-position-y: -425px
+}
+.pneus-rodas-e-calotas {
+    background-position-y: -471px;
+}
+.volantes-e-retrovisores {
+    background-position-y: -712px;
+}
+.mecanica {
+    background-position-y: -664px;
+}
+
+.ts-sprite {
+    background: url(images/sprite.png) no-repeat 0 0;
+}
+
