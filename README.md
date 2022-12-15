@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" widht="140" height="120" src="https://res.cloudinary.com/dydwaeqqy/image/upload/v1670993583/logo-connectparts-01_uboc7l.png" />
+    <img alt="" widht="100" height="100" src="https://res.cloudinary.com/dydwaeqqy/image/upload/v1670993583/logo-connectparts-01_uboc7l.png" />
     <br>
     Projeto teste Connect Parts
 </h1>
